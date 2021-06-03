@@ -1,3 +1,4 @@
  <h1>👋 Hi, I’m lingPoint</h1>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lingPoint)](https://github.com/lingPoint/automatic_logon)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lingPoint&show_icons=true&theme=radical)
+
