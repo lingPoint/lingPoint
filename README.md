@@ -1,4 +1,1 @@
- <h1>👋 Hi, I’m lingPoint</h1>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lingPoint&show_icons=true&theme=)
-
+某浙江主机厂工程师
